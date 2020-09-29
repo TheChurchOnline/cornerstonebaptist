@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15332597788",
+    "firebase_url": "https://cornerstone-baptist-app.firebaseio.com",
+    "project_id": "cornerstone-baptist-app",
+    "storage_bucket": "cornerstone-baptist-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15332597788:android:6bfb54e5f57db2be893fd9",
+        "android_client_info": {
+          "package_name": "com.cornerstonebaptistchurchapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15332597788-tcodmf47v6u8o5ilphl8p2nmf5kn6ngp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCuMrRy7bfNlF6hvpz2jfgI8Nohwy4tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15332597788-tcodmf47v6u8o5ilphl8p2nmf5kn6ngp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
