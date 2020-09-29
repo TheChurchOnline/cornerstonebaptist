@@ -1,0 +1,22 @@
+{
+  "name": "cornerapp",
+  "version": "1.0.0",
+  "description": "cornerstone app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChurchOnline/cornerstonebaptist.git"
+  },
+  "keywords": [
+    "cornerstone"
+  ],
+  "author": "Jade M\\anlutac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChurchOnline/cornerstonebaptist/issues"
+  },
+  "homepage": "https://github.com/TheChurchOnline/cornerstonebaptist#readme"
+}
