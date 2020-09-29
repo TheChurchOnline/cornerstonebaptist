@@ -1,0 +1,8 @@
+{
+  "name": "cornerstonebaptist",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
+
