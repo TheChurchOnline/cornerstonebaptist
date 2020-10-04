@@ -13,7 +13,7 @@
 
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
-        <string>100</string>
+        <string>121</string>
     </edit-config>
 
     <preference name="phonegap-version" value="cli-9.0.0" />
