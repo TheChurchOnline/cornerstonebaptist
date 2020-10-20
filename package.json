@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/TheChurchOnline/cornerstonebaptist/issues"
   },
-  "homepage": "https://github.com/TheChurchOnline/cornerstonebaptist#readme"
+    "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "homepage": "https://github.com/TheChurchOnline/Cedar-Street-App#readme"
 }
