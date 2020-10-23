@@ -172,8 +172,8 @@
     <access origin="mailto:*" launch-external="yes" />
     <access origin="tel:*" launch-external="yes" />-->
     <allow-navigation href="*" />
-    <access origin="*" /> 
-    <access origin="//*"/> 
+    <access origin="*" launch-external="yes"/> 
+    <access origin="//*" launch-external="yes"/> 
     <access origin="tel:*" launch-external="yes"/> 
     <access origin="mailto:*" launch-external="yes"/> 
     <access origin="skype:*" launch-external="yes"/> 
