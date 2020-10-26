@@ -178,6 +178,7 @@
     <access origin="mailto:*" launch-external="yes"/> 
     <access origin="skype:*" launch-external="yes"/> 
     <allow-navigation href="*" /> 
+    <allow-navigation href="https://www.givelify.com/givenow/1.0/MjYzNw==/selection*" />
     <allow-intent href="http://*/*" /> 
     <allow-intent href="https://*/*" /> 
     <allow-intent href="tel:*" /> 
