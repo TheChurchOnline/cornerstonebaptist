@@ -5,7 +5,7 @@
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.cornerstonebaptistchurchapp.app"
-    version="1.4.1">
+    version="1.5.1">
    
    <name>Cornerstone Baptist Church App</name>
    <description><![CDATA[Cornerstone Baptist Church App]]></description>
@@ -13,7 +13,7 @@
 
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
-        <string>121</string>
+        <string>151</string>
     </edit-config>
 
     <preference name="phonegap-version" value="cli-9.0.0" />
